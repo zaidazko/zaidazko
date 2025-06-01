@@ -1,6 +1,5 @@
 - 👋 College Sophomore
-- 👀 Learning Fullstack Development, currently making projects with React
-- 🌱 Soon to learn Node.js and Express.js
+- 👀 Learning Fullstack Development, currently building basic fullstack projects
 - 📫 www.linkedin.com/in/zazkoul
 
 
