@@ -1,5 +1,5 @@
-- 👋 College Sophomore
-- 👀 Learning Fullstack Development, currently building basic fullstack projects
+- 👋 Rising Junior
+- 👀 Doing Fullstack Development, Looking for interships
 - 📫 www.linkedin.com/in/zazkoul
 
 
